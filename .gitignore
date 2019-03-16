@@ -1,0 +1,18 @@
+# generic
+.svn
+
+# eclipse
+target
+generator*
+.settings
+.classpath
+.project
+.tern-project
+
+# idea
+.idea
+
+# mac
+.DS_Store
+
+# windows
